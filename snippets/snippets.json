@@ -3,5 +3,10 @@
     "prefix": "clg",
     "body": ["console.log('${1}', ${1});", "$0"],
     "description": "console.log()"
+  },
+  "console.log() separate": {
+    "prefix": "clgs",
+    "body": ["console.log('${1}', ${2});", "$0"],
+    "description": "console.logg()"
   }
 }

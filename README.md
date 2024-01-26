@@ -4,11 +4,16 @@ This is a really simple snippet for vscode. I wanna print both the name and the 
 
 clg -> Tab -> param -> Tab -> DONE!
 
+Or i wanna print console.log('a', b).
+
+clgs -> Tab -> a -> Tab -> b -> DONE!
+
 ## Features
 
-| Snippet | Purpose         |
-| ------- | --------------- |
-| `clg`   | `console.log()` |
+| Snippet | Purpose                  |
+| ------- | ------------------------ |
+| `clg`   | `console.log()`          |
+| `clgs`  | `console.log() separate` |
 
 ## Requirements
 
