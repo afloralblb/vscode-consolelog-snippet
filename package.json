@@ -9,6 +9,7 @@
   "categories": [
     "Other"
   ],
+  "icon": "images/images3.png",
   "activationEvents": [],
   "main": "./extension.js",
   "contributes": {
