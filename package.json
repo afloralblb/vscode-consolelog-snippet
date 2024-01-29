@@ -3,12 +3,17 @@
   "displayName": "Vscode Consolelog Snippet",
   "description": "Consolelog Snippets for Visual Studio Code",
   "version": "0.0.1",
+  "publisher": "FloralNi",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afloralblb/vscode-consolelog-snippet/blob/main/images/demo.gif"
+  },
   "icon": "images/images3.png",
   "activationEvents": [],
   "main": "./extension.js",
