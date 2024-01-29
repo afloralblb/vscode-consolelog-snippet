@@ -8,6 +8,8 @@ Or i wanna print console.log('a', b).
 
 clgs -> Tab -> a -> Tab -> b -> DONE!
 
+![useState](images/demo.gif)
+
 ## Features
 
 | Snippet | Purpose                  |
